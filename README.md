@@ -1,8 +1,4 @@
-Berikut adalah **README.md** yang dapat Anda gunakan:
 
----
-
-```markdown
 # Exploratory Data Analysis  
 **BLI DATA - Group 1 Final Project Rakamin Batch 49**  
 
