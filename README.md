@@ -57,12 +57,7 @@ To run this project locally, follow these steps:
    DB_HOST=your_host
    DB_PORT=your_port
    DB_NAME=your_database
-   ```  
-4. Run the analysis:  
-   ```bash
-   python main.py
-   ```  
-
+   ```   
 ---
 
 ## TECHNOLOGIES USED  
